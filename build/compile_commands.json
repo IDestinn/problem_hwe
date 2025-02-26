@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/destinn/Documents/code/problem_hwe/build",
+  "command": "/usr/bin/clang   -O3 -DNDEBUG -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/sieve_lib.dir/src/sieve.c.o -c /Users/destinn/Documents/code/problem_hwe/src/sieve.c",
+  "file": "/Users/destinn/Documents/code/problem_hwe/src/sieve.c",
+  "output": "CMakeFiles/sieve_lib.dir/src/sieve.c.o"
+},
+{
+  "directory": "/Users/destinn/Documents/code/problem_hwe/build",
+  "command": "/usr/bin/clang   -O3 -DNDEBUG -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/sieve_app.dir/src/main.c.o -c /Users/destinn/Documents/code/problem_hwe/src/main.c",
+  "file": "/Users/destinn/Documents/code/problem_hwe/src/main.c",
+  "output": "CMakeFiles/sieve_app.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/destinn/Documents/code/problem_hwe/build",
+  "command": "/usr/bin/clang   -O3 -DNDEBUG -std=gnu11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/test_sieve.dir/tests/test.c.o -c /Users/destinn/Documents/code/problem_hwe/tests/test.c",
+  "file": "/Users/destinn/Documents/code/problem_hwe/tests/test.c",
+  "output": "CMakeFiles/test_sieve.dir/tests/test.c.o"
+}
+]
