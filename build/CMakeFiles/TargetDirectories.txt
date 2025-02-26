@@ -1,6 +1,0 @@
-/Users/destinn/Documents/code/problem_hwe/build/CMakeFiles/sieve_lib.dir
-/Users/destinn/Documents/code/problem_hwe/build/CMakeFiles/sieve_app.dir
-/Users/destinn/Documents/code/problem_hwe/build/CMakeFiles/test_sieve.dir
-/Users/destinn/Documents/code/problem_hwe/build/CMakeFiles/test.dir
-/Users/destinn/Documents/code/problem_hwe/build/CMakeFiles/edit_cache.dir
-/Users/destinn/Documents/code/problem_hwe/build/CMakeFiles/rebuild_cache.dir

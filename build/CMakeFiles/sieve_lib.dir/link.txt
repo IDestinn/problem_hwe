@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsieve_lib.a CMakeFiles/sieve_lib.dir/src/sieve.c.o
-/usr/bin/ranlib libsieve_lib.a

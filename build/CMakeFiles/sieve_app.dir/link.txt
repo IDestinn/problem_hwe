@@ -1,1 +1,0 @@
-/usr/bin/clang -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sieve_app.dir/src/main.c.o -o sieve_app  libsieve_lib.a
