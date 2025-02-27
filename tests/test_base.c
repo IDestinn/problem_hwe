@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <assert.h>
-#include "../src/sieve.h"
+#include "test_base.h"
 
 void test_primes(unsigned int target, unsigned long long expected_result)
 {
@@ -30,26 +27,4 @@ void test_primes(unsigned int target, unsigned long long expected_result)
         }
     }
     free_sieve(&s);
-}
-
-struct test_case_t
-{
-    unsigned int target;
-    unsigned long long expected_result;
-};
-
-int main()
-{
-    struct test_case_t tests[] = {
-        {10, 29},
-        {20, 71},
-        {50, 229},
-        {1000000, 15485863}};
-
-    for (int i = 0; i < sizeof(tests) / sizeof(tests[0]); i++)
-    {
-        test_primes(tests[i].target, tests[i].expected_result);
-    }
-    printf("All tests passed!\n");
-    return 0;
 }
